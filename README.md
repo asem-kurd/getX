@@ -62,7 +62,7 @@ Feel free to explore, contribute, and suggest improvements! For any queries, con
 
 
 
-# <img src="lib\assites\img\logo.png" alt="Logo" width="70" height="70" /> GEN-Z
+# <img src="lib\assites\img\logo.png" alt="Logo" width="50" height="50" /> GEN-Z
 
 Gen-Z is a Flutter-based application designed to cater to the needs of Generation Z users, providing a modern and feature-rich experience.
 
