@@ -119,4 +119,4 @@ Before starting, ensure you have the following:
 
 ---
 
-Feel free to explore, contribute, and suggest improvements! For any queries, contact the project programmers at their emails [asem.vip10@gmail.com].
+Feel free to explore, contribute, and suggest improvements! For any queries, contact the project programmers at their emails [asem.vip10@gmail.com, ismadh10@gmail.com, yamensaeed06@gmail.com].
